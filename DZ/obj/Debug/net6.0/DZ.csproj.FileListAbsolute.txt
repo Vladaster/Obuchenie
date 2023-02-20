@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/Examples/DZ/obj/Debug/net6.0/DZ.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/Examples/DZ/obj/Debug/net6.0/DZ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Examples/DZ/obj/Debug/net6.0/DZ.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Examples/DZ/obj/Debug/net6.0/DZ.AssemblyInfo.cs
+/Users/macbook/Desktop/Examples/DZ/obj/Debug/net6.0/DZ.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Examples/DZ/bin/Debug/net6.0/DZ
+/Users/macbook/Desktop/Examples/DZ/bin/Debug/net6.0/DZ.deps.json
+/Users/macbook/Desktop/Examples/DZ/bin/Debug/net6.0/DZ.runtimeconfig.json
+/Users/macbook/Desktop/Examples/DZ/bin/Debug/net6.0/DZ.dll
+/Users/macbook/Desktop/Examples/DZ/bin/Debug/net6.0/DZ.pdb
+/Users/macbook/Desktop/Examples/DZ/obj/Debug/net6.0/DZ.dll
+/Users/macbook/Desktop/Examples/DZ/obj/Debug/net6.0/refint/DZ.dll
+/Users/macbook/Desktop/Examples/DZ/obj/Debug/net6.0/DZ.pdb
+/Users/macbook/Desktop/Examples/DZ/obj/Debug/net6.0/DZ.genruntimeconfig.cache
+/Users/macbook/Desktop/Examples/DZ/obj/Debug/net6.0/ref/DZ.dll
